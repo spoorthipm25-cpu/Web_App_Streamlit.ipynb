@@ -8,7 +8,7 @@ Users can answer questions and view score-based visualizations.
 ## 🔹 Tech Stack
 - Python
 - Streamlit
-- Pandas
+- ngrok
 - Matplotlib
 
 ## 🔹 Features
